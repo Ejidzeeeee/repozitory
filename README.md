@@ -1,4 +1,4 @@
-Репозиторий: 
+Репозиторий: https://github.com/Ejidzeeeee/repozitory
 
 Собственные модули (папка modules/)
 
